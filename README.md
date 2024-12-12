@@ -71,5 +71,5 @@ https://www.phpmyadmin.net/downloads/
 
 ### Link 1 : https://motion-movies.site
 
-### Link 2 : motion-movies.web1337.net
+### Link 2 : http://motion-movies.web1337.net
 
