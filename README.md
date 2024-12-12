@@ -11,7 +11,7 @@ Aplikasi Laravel ini merupakan aplikasi layanan streaming movie yang di mana use
 
 #### Saran kami download aplikasi laragon untuk menjalankan aplikasi ini untuk menghindari error perbedaan versi php dan mysql atau yang lain:
 
-    https://github.com/leokhoa/laragon/releases/download/6.0.0/laragon-wamp.exe
+https://github.com/leokhoa/laragon/releases/download/6.0.0/laragon-wamp.exe
 
 1. Setelah selesai download laragon lalu jalankan aplikasi tersebut :
 
