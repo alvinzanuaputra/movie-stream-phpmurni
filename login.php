@@ -116,7 +116,7 @@ mysqli_close($conn);
         </div>
     </div>
 
-    <footer class="text-white px-8 bg-black rounded-lg">
+    <footer class="text-white px-8 bg-black rounded-lg ">
         <div class="container mx-auto py-8">
             <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
                 <div>
@@ -153,37 +153,87 @@ mysqli_close($conn);
                     </div>
                 </div>
             </div>
-            <div class="flex items-center gap-2 mt-6">
-                <a href="https://www.instagram.com/alvinzanua" target="__blank"
-                    class="flex items-center gap-2 rounded-full border border-white">
-                    <button
-                        class="rounded-full p-3 bg-neutral-700 flex items-center justify-center cursor-pointer hover:opacity-75 transition">
-                        <i class="fab fa-instagram text-white"></i>
-                    </button>
-                </a>
-                <a href="https://www.facebook.com/profile.php?id=100070957315001" target="__blank"
-                    class="flex items-center gap-2 rounded-full border border-white">
-                    <button
-                        class="rounded-full p-3 bg-neutral-700 flex items-center justify-center cursor-pointer hover:opacity-75 transition">
-                        <i class="fab fa-facebook text-white"></i>
-                    </button>
-                </a>
-                <a href="https://x.com/AlvinZanua" class="flex items-center gap-2 rounded-full border border-white"
-                    target="__blank">
-                    <button
-                        class="rounded-full p-3 bg-neutral-700 flex items-center justify-center cursor-pointer hover:opacity-75 transition">
-                        <i class="fab fa-twitter text-white"></i>
-                    </button>
-                </a>
-                <a href="https://www.linkedin.com/in/alvin-zanua-putra-34a758288" target="__blank"
-                    class="flex items-center gap-2 rounded-full border border-white">
-                    <button
-                        class="rounded-full p-3 bg-neutral-700 flex items-center justify-center cursor-pointer hover:opacity-75 transition">
-                        <i class="fab fa-linkedin text-white"></i>
-                    </button>
-                </a>
+        </div>
+        <div class="inline-block sm:flex sm:items-center lg:flex lg:items-center gap-2 mb-6 xs:gap-x-16 gap-x-20">
+            <div class="inline-block">
+                <h1 class="font-bold mt-6">Alvin Zanua Putra</h1>
+                <div class="flex items-center gap-2 mt-6">
+                    <a href="https://www.instagram.com/alvinzanua" target="__blank"
+                        class="flex items-center gap-2 rounded-full border border-white">
+                        <button
+                            class="rounded-full p-3 bg-neutral-700 flex items-center justify-center cursor-pointer hover:opacity-75 transition">
+                            <i class="fab fa-instagram text-white"></i>
+                        </button>
+                    </a>
+                    <a href="https://wa.me/6281217835337" target="__blank"
+                        class="flex items-center gap-2 rounded-full border border-white">
+                        <button
+                            class="rounded-full p-3 bg-neutral-700 flex items-center justify-center cursor-pointer hover:opacity-75 transition">
+                            <i class="fab fa-whatsapp text-white"></i>
+                        </button>
+                    </a>
+                    <a href="https://x.com/AlvinZanua" class="flex items-center gap-2 rounded-full border border-white"
+                        target="__blank">
+                        <button
+                            class="rounded-full p-3 bg-neutral-700 flex items-center justify-center cursor-pointer hover:opacity-75 transition">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#fff"
+                                viewBox="0 0 256 256">
+                                <path
+                                    d="M214.75,211.71l-62.6-98.38,61.77-67.95a8,8,0,0,0-11.84-10.76L143.24,99.34,102.75,35.71A8,8,0,0,0,96,32H48a8,8,0,0,0-6.75,12.3l62.6,98.37-61.77,68a8,8,0,1,0,11.84,10.76l58.84-64.72,40.49,63.63A8,8,0,0,0,160,224h48a8,8,0,0,0,6.75-12.29ZM164.39,208,62.57,48h29L193.43,208Z">
+                                </path>
+                            </svg>
+                        </button>
+                    </a>
+                    <a href="https://www.linkedin.com/in/alvin-zanua-putra-34a758288" target="__blank"
+                        class="flex items-center gap-2 rounded-full border border-white">
+                        <button
+                            class="rounded-full p-3 bg-neutral-700 flex items-center justify-center cursor-pointer hover:opacity-75 transition">
+                            <i class="fab fa-linkedin text-white"></i>
+                        </button>
+                    </a>
+                </div>
+            </div>
+            <div class="inline-block">
+                <h1 class="font-bold mt-6">Yahya Ayyash Ashdaqi</h1>
+                <div class="flex items-center gap-2 mt-6">
+                    <a href="https://www.instagram.com/yhyayyash_" target="__blank"
+                        class="flex items-center gap-2 rounded-full border border-white">
+                        <button
+                            class="rounded-full p-3 bg-neutral-700 flex items-center justify-center cursor-pointer hover:opacity-75 transition">
+                            <i class="fab fa-instagram text-white"></i>
+                        </button>
+                    </a>
+                    <a href="https://wa.me/6281335001748" target="__blank" class="flex items-center gap-2 rounded-full border border-white">
+                        <button
+                            class="rounded-full p-3 bg-neutral-700 flex items-center justify-center cursor-pointer hover:opacity-75 transition">
+                            <i class="fab fa-whatsapp text-white"></i>
+                        </button>
+                    </a>
+                    <a href="https://x.com/yahyaayyash125" class="flex items-center gap-2 rounded-full border border-white"
+                        target="__blank">
+                        <button
+                            class="rounded-full p-3 bg-neutral-700 flex items-center justify-center cursor-pointer hover:opacity-75 transition">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#fff"
+                                viewBox="0 0 256 256">
+                                <path
+                                    d="M214.75,211.71l-62.6-98.38,61.77-67.95a8,8,0,0,0-11.84-10.76L143.24,99.34,102.75,35.71A8,8,0,0,0,96,32H48a8,8,0,0,0-6.75,12.3l62.6,98.37-61.77,68a8,8,0,1,0,11.84,10.76l58.84-64.72,40.49,63.63A8,8,0,0,0,160,224h48a8,8,0,0,0,6.75-12.29ZM164.39,208,62.57,48h29L193.43,208Z">
+                                </path>
+                            </svg>
+                        </button>
+                    </a>
+                    <a href="https://www.linkedin.com/in/yahya-ayyash-ashdaqi-a71974248/" target="__blank"
+                        class="flex items-center gap-2 rounded-full border border-white">
+                        <button
+                            class="rounded-full p-3 bg-neutral-700 flex items-center justify-center cursor-pointer hover:opacity-75 transition">
+                            <i class="fab fa-linkedin text-white"></i>
+                        </button>
+                    </a>
+                </div>
             </div>
         </div>
+        <!--  -->
+
+
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6 items-center border-t-2 py-2 border-gray-500">
             <div class="flex flex-wrap items-center gap-4 text-xs md:text-sm">
                 <ul class="flex flex-wrap items-center gap-4">
